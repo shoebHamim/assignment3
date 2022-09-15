@@ -2,6 +2,10 @@ header,main{
     width: 85vw;
     margin: 0 auto;
 }
+.faq{
+    width: 70vw;
+    margin: 0 auto;
+}
 .navbar-brand{
     color: #4A4A4A;
     font-size: 40px;

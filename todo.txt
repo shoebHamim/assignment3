@@ -1,0 +1,17 @@
+css framwork: bootstrap and css
+1.navigation bar
+2. slider
+3. change the website name and tittle .. don't use lorem 
+4. 6 courses
+5.faq
+6. footer 
+7. responsiveness
+
+
+
+bonus:
+1. Ready to section: register now modal open
+2. faq, realistic ans .. diff between 1. flexbox and grid 2. bootstrap vs tailwind 3. what is css box 
+model and 4. what is semantic tags
+3. trusted secton only visible in pc
+4. 6 meaningful github commits

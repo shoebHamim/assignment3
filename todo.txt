@@ -1,7 +1,0 @@
-
-
-
-
-bonus:
-1. Ready to section: register now modal open
-3. trusted secton only visible in pc

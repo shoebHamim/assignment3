@@ -1,12 +1,7 @@
 
 
-5.faq
-6. footer 
-7. responsiveness
-
 
 
 bonus:
 1. Ready to section: register now modal open
 3. trusted secton only visible in pc
-4. 6 meaningful github commits
